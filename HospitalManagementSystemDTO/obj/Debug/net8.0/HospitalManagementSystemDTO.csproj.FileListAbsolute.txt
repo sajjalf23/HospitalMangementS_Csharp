@@ -1,0 +1,11 @@
+E:\web tech\hospital\HospitalManagementSystemDTO\bin\Debug\net8.0\HospitalManagementSystemDTO.deps.json
+E:\web tech\hospital\HospitalManagementSystemDTO\bin\Debug\net8.0\HospitalManagementSystemDTO.dll
+E:\web tech\hospital\HospitalManagementSystemDTO\bin\Debug\net8.0\HospitalManagementSystemDTO.pdb
+E:\web tech\hospital\HospitalManagementSystemDTO\obj\Debug\net8.0\HospitalManagementSystemDTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\web tech\hospital\HospitalManagementSystemDTO\obj\Debug\net8.0\HospitalManagementSystemDTO.AssemblyInfoInputs.cache
+E:\web tech\hospital\HospitalManagementSystemDTO\obj\Debug\net8.0\HospitalManagementSystemDTO.AssemblyInfo.cs
+E:\web tech\hospital\HospitalManagementSystemDTO\obj\Debug\net8.0\HospitalManagementSystemDTO.csproj.CoreCompileInputs.cache
+E:\web tech\hospital\HospitalManagementSystemDTO\obj\Debug\net8.0\HospitalManagementSystemDTO.dll
+E:\web tech\hospital\HospitalManagementSystemDTO\obj\Debug\net8.0\refint\HospitalManagementSystemDTO.dll
+E:\web tech\hospital\HospitalManagementSystemDTO\obj\Debug\net8.0\HospitalManagementSystemDTO.pdb
+E:\web tech\hospital\HospitalManagementSystemDTO\obj\Debug\net8.0\ref\HospitalManagementSystemDTO.dll

@@ -1,0 +1,17 @@
+E:\web tech\hospital\HospitalManagementSystemBL\obj\Debug\net8.0\HospitalManagementSystemBL.csproj.AssemblyReference.cache
+E:\web tech\hospital\HospitalManagementSystemBL\obj\Debug\net8.0\HospitalManagementSystemBL.GeneratedMSBuildEditorConfig.editorconfig
+E:\web tech\hospital\HospitalManagementSystemBL\obj\Debug\net8.0\HospitalManagementSystemBL.AssemblyInfoInputs.cache
+E:\web tech\hospital\HospitalManagementSystemBL\obj\Debug\net8.0\HospitalManagementSystemBL.AssemblyInfo.cs
+E:\web tech\hospital\HospitalManagementSystemBL\obj\Debug\net8.0\HospitalManagementSystemBL.csproj.CoreCompileInputs.cache
+E:\web tech\hospital\HospitalManagementSystemBL\bin\Debug\net8.0\HospitalManagementSystemBL.deps.json
+E:\web tech\hospital\HospitalManagementSystemBL\bin\Debug\net8.0\HospitalManagementSystemBL.dll
+E:\web tech\hospital\HospitalManagementSystemBL\bin\Debug\net8.0\HospitalManagementSystemBL.pdb
+E:\web tech\hospital\HospitalManagementSystemBL\bin\Debug\net8.0\HospitalManagementSystemDAL.dll
+E:\web tech\hospital\HospitalManagementSystemBL\bin\Debug\net8.0\HospitalManagementSystemDTO.dll
+E:\web tech\hospital\HospitalManagementSystemBL\bin\Debug\net8.0\HospitalManagementSystemDTO.pdb
+E:\web tech\hospital\HospitalManagementSystemBL\bin\Debug\net8.0\HospitalManagementSystemDAL.pdb
+E:\web tech\hospital\HospitalManagementSystemBL\obj\Debug\net8.0\Hospital.A5965E38.Up2Date
+E:\web tech\hospital\HospitalManagementSystemBL\obj\Debug\net8.0\HospitalManagementSystemBL.dll
+E:\web tech\hospital\HospitalManagementSystemBL\obj\Debug\net8.0\refint\HospitalManagementSystemBL.dll
+E:\web tech\hospital\HospitalManagementSystemBL\obj\Debug\net8.0\HospitalManagementSystemBL.pdb
+E:\web tech\hospital\HospitalManagementSystemBL\obj\Debug\net8.0\ref\HospitalManagementSystemBL.dll

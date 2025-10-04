@@ -1,0 +1,15 @@
+E:\web tech\hospital\HospitalManagementSystemDAL\obj\Debug\net8.0\HospitalManagementSystemDAL.csproj.AssemblyReference.cache
+E:\web tech\hospital\HospitalManagementSystemDAL\obj\Debug\net8.0\HospitalManagementSystemDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\web tech\hospital\HospitalManagementSystemDAL\obj\Debug\net8.0\HospitalManagementSystemDAL.AssemblyInfoInputs.cache
+E:\web tech\hospital\HospitalManagementSystemDAL\obj\Debug\net8.0\HospitalManagementSystemDAL.AssemblyInfo.cs
+E:\web tech\hospital\HospitalManagementSystemDAL\obj\Debug\net8.0\HospitalManagementSystemDAL.csproj.CoreCompileInputs.cache
+E:\web tech\hospital\HospitalManagementSystemDAL\bin\Debug\net8.0\HospitalManagementSystemDAL.deps.json
+E:\web tech\hospital\HospitalManagementSystemDAL\bin\Debug\net8.0\HospitalManagementSystemDAL.dll
+E:\web tech\hospital\HospitalManagementSystemDAL\bin\Debug\net8.0\HospitalManagementSystemDAL.pdb
+E:\web tech\hospital\HospitalManagementSystemDAL\bin\Debug\net8.0\HospitalManagementSystemDTO.dll
+E:\web tech\hospital\HospitalManagementSystemDAL\bin\Debug\net8.0\HospitalManagementSystemDTO.pdb
+E:\web tech\hospital\HospitalManagementSystemDAL\obj\Debug\net8.0\Hospital.C8DE1B5B.Up2Date
+E:\web tech\hospital\HospitalManagementSystemDAL\obj\Debug\net8.0\HospitalManagementSystemDAL.dll
+E:\web tech\hospital\HospitalManagementSystemDAL\obj\Debug\net8.0\refint\HospitalManagementSystemDAL.dll
+E:\web tech\hospital\HospitalManagementSystemDAL\obj\Debug\net8.0\HospitalManagementSystemDAL.pdb
+E:\web tech\hospital\HospitalManagementSystemDAL\obj\Debug\net8.0\ref\HospitalManagementSystemDAL.dll
