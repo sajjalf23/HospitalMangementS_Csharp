@@ -47,7 +47,7 @@ A console-based Hospital Management System written in C# that allows admins to m
 - Methods: `HasAppointment(int appointmentID)`, `ToString()`
 
 ### `Appointment`
-- `AppointmentID` (int, auto-generated)
+- `AppointmentID` (GUID)
 - `DoctorID` (int)
 - `PatientCNIC` (string)
 - `AppointmentDate` (DateTime)
@@ -67,7 +67,7 @@ A console-based Hospital Management System written in C# that allows admins to m
 **Doctor Table**
 | Column        | Type      | Key           |
 |---------------|----------|---------------|
-| DoctorID      | int      | Primary Key   |
+| DoctorID      | GUID      | Primary Key   |
 | Name          | nvarchar |               |
 | Specialization| nvarchar |               |
 | IsAvailable   | bit      |               |
@@ -82,7 +82,7 @@ A console-based Hospital Management System written in C# that allows admins to m
 **Appointment Table**
 | Column        | Type      | Key           |
 |---------------|----------|---------------|
-| AppointmentID | int      | Primary Key   |
+| AppointmentID | GUID      | Primary Key   |
 | DoctorID      | int      | Foreign Key   |
 | PatientCNIC   | nvarchar | Foreign Key   |
 | AppointmentDate| datetime|               |
