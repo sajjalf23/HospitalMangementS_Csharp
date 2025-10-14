@@ -2,7 +2,11 @@
 
 A console-based Hospital Management System written in C# that allows admins to manage **Doctors**, **Patients**, and **Appointments** efficiently. This system supports CRUD operations, logging, serialization, and provides a menu-driven interface for ease of use.
 
-using N Tier Architecture
+using N Tier Architecture 
+   - Presentation Layer PL
+   - Business Layer BL
+   - Data Access Layer DAL
+   - Data Transfer Layer DTO
 
 ---
 
